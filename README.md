@@ -1,1 +1,1 @@
-# ts-template-project
+# vite-ts-template-project
